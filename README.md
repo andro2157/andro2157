@@ -1,16 +1,25 @@
 ### Hi there 👋
 
+- 📗 **I know how to code :**
+  * C++
+  * Python
+  * Java
+- 💡 **I'm currently learning :**
+  * PHP
+  * MySQL
+  * JS
+- 📚 **Libraries I know how to use :**
+  * [JNI](https://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html)
+  * [JVMTI](https://docs.oracle.com/javase/8/docs/platform/jvmti/jvmti.html)
+  * [CryptoPP](https://github.com/weidai11/cryptopp)
+  * [CUrl](https://curl.haxx.se/)
+  * [PolyHook (v2)](https://github.com/stevemk14ebr/PolyHook_2_0)
+  * [A bit of OpenGL](https://www.opengl.org/resources/libraries/glut/)
+  * etc
+- 🔭 **I’m currently working on :**
+  * A modern C++ Minecraft (Java) *mod*
+  * A C++ chatting program w/ *secure* communication
+  * A *private* web platform (PHP, MySQL, JS)
+
 <!--
-**andro2157/andro2157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andro2157)](https://github.com/anuraghazra/github-readme-stats)
